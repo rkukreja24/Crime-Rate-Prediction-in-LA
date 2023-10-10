@@ -1,6 +1,6 @@
 # Los Angeles Crime Data Analysis using Machine Learning
 
-![Los Angeles Crime Data Analysis](crime_data_analysis.png)
+![Los Angeles Crime Data Analysis]([crime_data_analysis.png](https://xtown.la/wp-content/uploads/2021/11/Crosstown-Homicides-Station-19-21-1024x906.jpg))
 
 This project explores the use of machine learning algorithms such as K-Means Clustering and Random Forest to analyze crime data from the city of Los Angeles. The goal of our project is to gain a better understanding of the patterns in crime across Los Angeles and to build predictive models that can be used to identify what type of crime could be committed based on certain parameters.
 
@@ -29,7 +29,5 @@ The project's findings and results are summarized in the report. Notably, K-Mean
 ## Conclusion and Future Work
 The project concludes by highlighting the effectiveness of the K-Means algorithm in measuring similarity and the Random Forest model's moderate performance in crime type prediction. Future work may include further data cleaning, feature extraction, and exploring other machine learning algorithms.
 
----
-
-*Note: This README is a template. Please replace the placeholders with your specific project details and update any links or images accordingly.*
+--
 
