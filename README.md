@@ -1,6 +1,6 @@
 # Los Angeles Crime Data Analysis using Machine Learning
 
-![Los Angeles Crime Data Analysis]([https://github.com/rkukreja24/Crime-Rate-Prediction-in-LA/blob/main/crimes_in_LA.png])
+![Los Angeles Crime Data Analysis](https://github.com/rkukreja24/Crime-Rate-Prediction-in-LA/blob/main/crimes_in_LA.png)
 
 This project explores the use of machine learning algorithms such as K-Means Clustering and Random Forest to analyze crime data from the city of Los Angeles. The goal of our project is to gain a better understanding of the patterns in crime across Los Angeles and to build predictive models that can be used to identify what type of crime could be committed based on certain parameters.
 
